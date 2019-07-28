@@ -1,3 +1,11 @@
+=======
+## react-props-state-components
+Following tutorial from Robin Wieruch on React Props and State with components https://www.robinwieruch.de/react-pass-props-to-component/
+
+Also trying out [react-boilerplate](https://raw.githubusercontent.com/react-boilerplate/) as a template.
+
+## react-boilerplate installation README:
+
 <img src="https://raw.githubusercontent.com/react-boilerplate/react-boilerplate-brand/master/assets/banner-metal-optimized.jpg" alt="react boilerplate banner" align="center" />
 
 <br />
