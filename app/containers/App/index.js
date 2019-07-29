@@ -42,6 +42,7 @@ export default function App() {
         <Route exact path="/" component={HomePage} />
         <Route path="/features" component={FeaturePage} />
         <Route path="" component={NotFoundPage} />
+        <Route path="/routestut" component={RoutesTut} />
       </Switch>
       <Footer />
       <GlobalStyle />
